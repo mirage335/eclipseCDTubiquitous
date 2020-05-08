@@ -2,6 +2,11 @@ Copyright (C) 2020 mirage335
 See the end of the file for license conditions.
 See license.txt for eclipseCDTubiquitous license conditions.
 
+Eclipse CDT IDE containment framework. Intended to build Eclipse projects.
+
+Especially intended to support compilation of 'RepRapFirmware' (https://reprap.org/wiki/RepRap_Firmware) .
+
+
 # Usage
 
 
@@ -9,6 +14,18 @@ See license.txt for eclipseCDTubiquitous license conditions.
 
 
 # Safety
+
+
+
+
+
+# Reference
+https://reprap.org/wiki/RepRap_Firmware
+https://forum.duet3d.com/topic/11703/building-reprap-firmware-on-debian-buster
+
+https://www.eclipse.org/forums/index.php/t/1087087/
+https://stackoverflow.com/questions/38230274/portable-eclipse-c-c-configuration-for-c-compiler-without-computer-installt
+https://stackoverflow.com/questions/344797/build-several-cdt-c-projects-from-commandline
 
 
 __Copyright__
